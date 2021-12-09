@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Adiblar/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1787037037037037" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/edt_background.xml" value="0.16574074074074074" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/home_selected.xml" value="0.175" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/home_unselected.xml" value="0.175" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/ic_add.xml" value="0.1787037037037037" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/ic_adiblar_icon.xml" value="0.175" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1125" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/ic_circle_white.xml" value="0.19166666666666668" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/ic_info.xml" value="0.1125" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/ic_tab_background.xml" value="0.16111111111111112" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/ic_tab_background_2.xml" value="0.16111111111111112" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/icon_bookmark.xml" value="0.1787037037037037" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/icon_home.xml" value="0.1787037037037037" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/icon_settings.xml" value="0.1787037037037037" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/rounded_gray.xml" value="0.10555555555555556" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/saqlangan_1.xml" value="0.16111111111111112" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/saqlangan_2.xml" value="0.16111111111111112" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/saqlanganlar_selected.xml" value="0.175" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/saqlanganlar_unselected.xml" value="0.175" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/settings_selected.xml" value="0.175" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/settings_unselected.xml" value="0.175" />
+        <entry key="..\:/Adiblar/app/src/main/res/drawable/tab_main_background.xml" value="0.175" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/activity_add.xml" value="0.12771739130434784" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/fragment_add.xml" value="0.1" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/fragment_adib_info.xml" value="0.1" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/fragment_adiblar.xml" value="0.1" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/fragment_dastur_info.xml" value="0.15" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/fragment_jahon_adabiyoti.xml" value="0.1037037037037037" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/fragment_mumtoz_adabiyot.xml" value="0.16203703703703703" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/fragment_ozbek_adabiyoti.xml" value="0.16203703703703703" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/fragment_saqlangan.xml" value="0.2" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/fragment_search_adib.xml" value="0.14" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/fragment_settings.xml" value="0.18" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/item_rv.xml" value="0.12" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/item_tab_category.xml" value="0.20102564102564102" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/item_tab_main.xml" value="0.1213768115942029" />
+        <entry key="..\:/Adiblar/app/src/main/res/layout/saqlangan_1.xml" value="0.20102564102564102" />
+        <entry key="..\:/Adiblar/app/src/main/res/menu/nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Adiblar/app/src/main/res/xml/fragment_adib_info_scene.xml" value="0.20416666666666666" />
+        <entry key="..\:/Adiblar/app/src/main/res/xml/fragment_adiblar_list_scene.xml" value="0.17592592592592593" />
+        <entry key="..\:/Adiblar/app/src/main/res/xml/fragment_saqlangan_scene.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
